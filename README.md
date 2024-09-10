@@ -93,7 +93,7 @@ To publish any package;
 1. Go to the discussion tab
 2. Goto group publish
 3. Send your url
-4. After sometime, you should see your url be in repo-add.txt
+4. After sometime, you should see your url be in pycer-repos.txt
 
 ## Contributing
 
